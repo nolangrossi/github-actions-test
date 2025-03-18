@@ -14,9 +14,9 @@ function App() {
 
   return (
     <>
-      <Advertisement companyName={companyName1} productDescription={productDescription1} price={price1} />
-      <Advertisement companyName={companyName2} productDescription={productDescription2} price={price2} />
-      <Calculator />
+<Advertisement companyName={companyName1} productDescription={productDescription1} price={price1} />
+  <Advertisement companyName={companyName2} productDescription={productDescription2} price={price2} />
+    <Calculator />
     </>
   )
 }
